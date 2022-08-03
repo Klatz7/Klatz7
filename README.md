@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klatz7&label=Profile%20views&color=0e75b6&style=flat" alt="klatz7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/klatz7" target="blank"><img src="https://img.shields.io/twitter/follow/klatz7?logo=twitter&style=for-the-badge" alt="klatz7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/klatz77" target="blank"><img src="https://img.shields.io/twitter/follow/klatz7?logo=twitter&style=for-the-badge" alt="klatz7" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Klatz7](https://github.com/Klatz7)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/klatz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klatz7" height="30" width="40" /></a>
+<a href="https://twitter.com/klatz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klatz77" height="30" width="40" /></a>
 <a href="https://instagram.com/yehezkiel.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yehezkiel.7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/klatz ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="klatz ." height="30" width="40" /></a>
 </p>
